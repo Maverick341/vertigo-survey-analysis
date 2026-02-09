@@ -1,3 +1,4 @@
-Variables,Method,r,p-value,N
-Screen Time vs SVQ,Spearman,-0.1564,0.0965,114
-Earphone Usage vs SVQ,Spearman,0.4133,0.0,114
+Variables,Pearson r,Pearson p,Spearman r,Spearman p,N
+Screen_hours vs SVQ_score,-0.1669,0.0759,-0.1564,0.0965,114
+Earphone_hours vs SVQ_score,0.3979,0.0,0.4133,0.0,114
+AGE vs SVQ_score,0.0303,0.749,0.0521,0.5823,114
