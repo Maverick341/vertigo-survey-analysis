@@ -1,0 +1,5 @@
+Category,Count,Percentage,95% CI Low,95% CI High
+Minimal,36,31.58,-,-
+Moderate,68,59.65,-,-
+High,10,8.77,-,-
+Symptomatic,78,68.42,59.40657058910772,76.2345360471455
