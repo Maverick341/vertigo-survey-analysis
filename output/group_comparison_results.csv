@@ -1,0 +1,3 @@
+Comparison,Test,Statistic,p-value,N
+Gender vs SVQ,Mann–Whitney U,2049.5,0.0129,114
+Job Role vs SVQ,Kruskal–Wallis H,0.016,0.9923,51

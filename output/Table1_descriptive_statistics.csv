@@ -1,22 +1,58 @@
-Variable,Mean ± SD or n (%)
-Age (years),23.60 ± 5.97
-Screen Time (hours/day),6.97 ± 1.49
-Earphone Usage (hours/day),4.65 ± 2.20
-Total SVQ Score,1.6252 ± 1.0170
-,
-Gender,
-  Male,62 (54.39%)
-  Female,52 (45.61%)
-,
-Job Role (Top Categories),
-  IT,22 (19.30%)
-  Software Developer,17 (14.91%)
-  Software Engineer,12 (10.53%)
-  IT Worker,8 (7.02%)
-  Data Analyst,6 (5.26%)
-  Engineer,4 (3.51%)
-,
-SVQ Symptom Status,
-  Moderate Symptoms,68 (59.65%)
-  Minimal/No Symptoms,36 (31.58%)
-  High Sensitivity,10 (8.77%)
+Variable,Mean ± SD / n (%),Median (IQR),Min–Max
+Age (years),23.60 ± 5.97,20.00 (20.00–30.00),20.00–40.00
+Screen Time (hours/day),6.97 ± 1.49,7.00 (5.00–8.50),2.00–8.50
+Earphone Usage (hours/day),4.65 ± 2.20,5.00 (2.00–7.00),2.00–8.50
+Total SVQ Score,1.63 ± 1.02,1.74 (0.74–2.37),0.00–4.00
+,,,
+Gender,,,
+  Male,62 (54.39%),,
+  Female,52 (45.61%),,
+,,,
+Job Role,,,
+  It,22 (19.30%),,
+  Software Developer,17 (14.91%),,
+  Software Engineer,12 (10.53%),,
+  It Worker,8 (7.02%),,
+  Data Analyst,6 (5.26%),,
+  Engineer,4 (3.51%),,
+  It Engineer,3 (2.63%),,
+  Web Developer,3 (2.63%),,
+  Software Development Intern,1 (0.88%),,
+  System Implementor,1 (0.88%),,
+  Full Stack Developer,1 (0.88%),,
+  Supply Chain Analyst,1 (0.88%),,
+  Mis - Manager,1 (0.88%),,
+  Data Engineer,1 (0.88%),,
+  Senior Software Engineer,1 (0.88%),,
+  Private Sector,1 (0.88%),,
+  Developer,1 (0.88%),,
+  It - Backend Engineer,1 (0.88%),,
+  Marketing Designer,1 (0.88%),,
+  Tech Architect Associate Manager,1 (0.88%),,
+  Consultant,1 (0.88%),,
+  Desktop Support Engineer,1 (0.88%),,
+  It Campus Head,1 (0.88%),,
+  It Intern,1 (0.88%),,
+  Executive,1 (0.88%),,
+  Analyst,1 (0.88%),,
+  Petroleum Engineer,1 (0.88%),,
+  Senior Engineer,1 (0.88%),,
+  Lead Consultant Sap Trm,1 (0.88%),,
+  Reporting  Associate,1 (0.88%),,
+  Quality Analysts,1 (0.88%),,
+  It Professional,1 (0.88%),,
+  Er,1 (0.88%),,
+  Manufacturing Quality,1 (0.88%),,
+  Coordinator Logistics,1 (0.88%),,
+  It Analyst,1 (0.88%),,
+  Trainee Engineer,1 (0.88%),,
+  Video Editor,1 (0.88%),,
+  Associate,1 (0.88%),,
+  Solution Advisor,1 (0.88%),,
+  Software Developers,1 (0.88%),,
+  Backend Engg,1 (0.88%),,
+,,,
+SVQ Symptom Status,,,
+  Moderate,68 (59.65%),,
+  Minimal,36 (31.58%),,
+  High,10 (8.77%),,

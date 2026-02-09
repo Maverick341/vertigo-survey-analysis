@@ -1,0 +1,4 @@
+Variable,W-statistic,p-value,Distribution
+Screen_hours,0.8011,0.0,Non-normal
+Earphone_hours,0.8383,0.0,Non-normal
+SVQ_score,0.9676,0.0073,Non-normal
